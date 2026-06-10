@@ -1,0 +1,30 @@
+/usr/bin/cd: line 4: cd: nexus-agent: No such file or directory
+
+[Process completed]
+  [Restored 30 May 2026 at 5:52:58 PM]
+Last login: Sat May 30 17:52:58 on ttys001
+kass@Fu ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
