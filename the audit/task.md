@@ -1,0 +1,21 @@
+# Audit Tasks
+
+- [x] Analyze `kaos-overlord-genesis`
+    - [x] Review `package.json` and dependencies
+    - [x] Scan for leaks (API keys, secrets)
+    - [x] Review `backend/server.js` for data sovereignty
+    - [x] Review `frontend/vertex-ai-proxy-interceptor.js`
+    - [x] Check for external control/backdoors
+- [x] Analyze `the-reality-architech`
+    - [x] Review `package.json` and dependencies
+    - [x] Scan for leaks (API keys, secrets)
+    - [x] Review Firebase rules and configuration
+    - [x] Trace AI service data flow (`geminiService.ts`)
+    - [x] Check project branding and consistency
+- [x] Cross-Project Sovereignty Review
+    - [x] Confirm "Zero Third Party" claims
+    - [x] Audit off-device data leakage
+- [/] Deep Dive into Missing Files
+    - [ ] Unzip and analyze `Title unclear-5.zip`
+    - [ ] Review `abuild.rtfd/TXT.rtf`
+- [x] Generate Final Report & Checklists
