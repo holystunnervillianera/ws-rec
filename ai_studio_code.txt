@@ -1,0 +1,10 @@
+; --- DNS Zone File for therealityarchitech.com ---
+; 1. Root Domain (A Records)
+@       3600    IN    A       199.36.158.100
+@       3600    IN    A       151.101.1.195
+
+; 2. WWW Subdomain (CNAME)
+www     3600    IN    CNAME   therealityarchitech.web.app.
+
+; 3. Verification (Optional - Replace with your specific Firebase value if provided)
+; firebase-verification   3600    IN    TXT    "your-firebase-verification-hash"

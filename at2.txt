@@ -1,0 +1,29 @@
+Last login: Thu May 21 19:43:41 on ttys036
+ollama run laguna-xs.2%                                                                                                 kass@Fu Ollama.app % ollama run laguna-xs.2
+pulling manifest 
+pulling 59885ff3cab3:   0% ▕                                                          ▏ 439 KB/ 23 GB                  
+Error: Post "http://127.0.0.1:11434/api/show": dial tcp 127.0.0.1:11434: connect: connection refused
+kass@Fu Ollama.app % 
+  [Restored 24 May 2026 at 10:28:34 AM]
+Last login: Sun May 24 10:28:32 on console
+Restored session: Thu 21 May 2026 20:32:49 NZST
+kass@Fu Ollama.app % 
+  [Restored 26 May 2026 at 10:15:25 AM]
+Last login: Tue May 26 10:09:34 on console
+Restored session: Sun 24 May 2026 10:33:45 NZST
+kass@Fu Ollama.app % 
+  [Restored 30 May 2026 at 5:52:58 PM]
+Last login: Sat May 30 17:52:57 on console
+Restored session: Tue 26 May 2026 10:20:52 NZST
+kass@Fu Ollama.app % 
+
+
+
+
+
+
+
+
+
+
+
