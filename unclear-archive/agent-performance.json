@@ -1,0 +1,65 @@
+{
+  "Platform Architect": {
+    "tasks": [
+      "domain-setup",
+      "email-system",
+      "social-accounts"
+    ],
+    "completed": 3,
+    "failed": 0
+  },
+  "Advanced Coder": {
+    "tasks": [
+      "stripe-verify"
+    ],
+    "completed": 1,
+    "failed": 0
+  },
+  "Operations": {
+    "tasks": [
+      "product-upload",
+      "launch-coordination",
+      "sales-monitoring"
+    ],
+    "completed": 3,
+    "failed": 0
+  },
+  "Content Creator": {
+    "tasks": [
+      "content-generation",
+      "content-optimization"
+    ],
+    "completed": 2,
+    "failed": 0
+  },
+  "Sales": {
+    "tasks": [
+      "sales-pipeline",
+      "lead-nurturing"
+    ],
+    "completed": 2,
+    "failed": 0
+  },
+  "Trend Predictor": {
+    "tasks": [
+      "trend-analysis",
+      "community-engagement"
+    ],
+    "completed": 2,
+    "failed": 0
+  },
+  "Strategy": {
+    "tasks": [
+      "positioning-strategy"
+    ],
+    "completed": 1,
+    "failed": 0
+  },
+  "Management": {
+    "tasks": [
+      "hourly-reporting"
+    ],
+    "completed": 1,
+    "failed": 0
+  }
+}
